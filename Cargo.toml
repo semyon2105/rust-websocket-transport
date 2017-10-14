@@ -9,5 +9,5 @@ High-level transport for rust-websocket
 """
 
 [dependencies]
-futures = "^0.1.16"
+futures = "^0.1.15"
 websocket = { git = "https://github.com/semyon2105/rust-websocket" }
